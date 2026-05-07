@@ -1,0 +1,11 @@
+baseURL = 'https://passivepacket.github.io/'
+languageCode = 'en-us'
+title = 'PassivePacket'
+theme = 'PaperMod'
+
+[params]
+  author = 'PassivePacket'
+  defaultTheme = 'dark'
+  ShowCodeCopyButtons = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
