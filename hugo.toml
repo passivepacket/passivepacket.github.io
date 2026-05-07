@@ -9,3 +9,10 @@ theme = 'PaperMod'
   ShowCodeCopyButtons = true
   ShowReadingTime = true
   ShowBreadCrumbs = true
+  ShowToc = true
+  TocOpen = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
