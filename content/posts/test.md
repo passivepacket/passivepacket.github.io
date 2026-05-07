@@ -6,8 +6,8 @@ draft = false
 
 # this is an example
 
-```mermaid
+<div class="mermaid">
 flowchart TD
 A[Loader] --> B[Decrypt Payload]
 B --> C[Beacon]
-```
+</div>
