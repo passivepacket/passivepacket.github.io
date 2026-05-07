@@ -6,19 +6,6 @@
     <description>Recent content on PassivePacket</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 May 2026 12:00:00 +0000</lastBuildDate>
     <atom:link href="https://passivepacket.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://passivepacket.github.io/posts/test/</link>
-      <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
-      <guid>https://passivepacket.github.io/posts/test/</guid>
-      <description>&lt;h1 id=&#34;this-is-an-example&#34;&gt;this is an example&lt;/h1&gt;
-&lt;div class=&#34;mermaid&#34;&gt;
-flowchart TD
-A[Loader] --&gt; B[Decrypt Payload]
-B --&gt; C[Beacon]
-&lt;/div&gt;</description>
-    </item>
   </channel>
 </rss>
