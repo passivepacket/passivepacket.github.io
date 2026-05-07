@@ -14,10 +14,11 @@
       <pubDate>Wed, 06 May 2026 12:00:00 +0000</pubDate>
       <guid>https://passivepacket.github.io/posts/test/</guid>
       <description>&lt;h1 id=&#34;this-is-an-example&#34;&gt;this is an example&lt;/h1&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;flowchart TD
-A[Loader] --&amp;gt; B[Decrypt Payload]
-B --&amp;gt; C[Beacon]
-&lt;/code&gt;&lt;/pre&gt;</description>
+&lt;div class=&#34;mermaid&#34;&gt;
+flowchart TD
+A[Loader] --&gt; B[Decrypt Payload]
+B --&gt; C[Beacon]
+&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
